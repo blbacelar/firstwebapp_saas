@@ -10,6 +10,8 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'font-awesome-rails', '~> 4.7'
 gem 'factory_girl_rails', '~> 4.7'
+gem 'font-awesome-sass', '4.2.0'
+gem 'turbolinks', '~> 5'
 
 
 # gem 'turbolinks', '~> 5'
