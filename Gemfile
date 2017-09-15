@@ -11,7 +11,13 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'font-awesome-rails', '~> 4.7'
 gem 'factory_girl_rails', '~> 4.7'
 gem 'font-awesome-sass', '4.2.0'
-gem 'turbolinks', '~> 5'
+# gem 'turbolinks', '~> 5'
+
+# handling payments
+gem 'stripe', '1.57.1'
+
+# use figaro to hide secret keys
+gem 'figaro', '1.1.1'
 
 
 # gem 'turbolinks', '~> 5'
