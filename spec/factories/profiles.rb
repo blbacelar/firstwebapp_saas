@@ -1,5 +1,5 @@
 FactoryGirl.define do
-  factory :profile do
+  factory :profiles do
     user_id 1
     first_name "MyString"
     last_name "MyString"
