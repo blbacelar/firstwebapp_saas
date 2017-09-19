@@ -19,6 +19,8 @@ gem 'stripe', '1.57.1'
 # use figaro to hide secret keys
 gem 'figaro', '1.1.1'
 
+# uploading images
+gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
 
 # gem 'turbolinks', '~> 5'
 gem 'jquery-turbolinks'
