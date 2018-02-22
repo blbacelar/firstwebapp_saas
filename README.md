@@ -7,6 +7,7 @@ subscription fee for access our site (Software-as-a-Service)
 
 - stripe integration
 - user authentication
+- bootstrap
 
 
 * ...
