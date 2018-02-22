@@ -1,25 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Dev Match - Rails Subscription Site
 
-Things you may want to cover:
+- Membership-based web application where users can sig up for a free or pay a monthly 
+subscription fee for access our site (Software-as-a-Service)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+_
 
 * ...
 # firstwebapp_saas
